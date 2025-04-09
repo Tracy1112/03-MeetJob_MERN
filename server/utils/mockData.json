@@ -1,0 +1,802 @@
+[
+  {
+    "company": "Linklinks",
+    "position": "Community Outreach Specialist",
+    "jobLocation": "Czerwin",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-06-30T13:45:52Z"
+  },
+  {
+    "company": "Kare",
+    "position": "Marketing Assistant",
+    "jobLocation": "Suai",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-09-16T15:13:44Z"
+  },
+  {
+    "company": "Flipopia",
+    "position": "Desktop Support Technician",
+    "jobLocation": "Petropavlovka",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-12-12T15:09:05Z"
+  },
+  {
+    "company": "Kwilith",
+    "position": "Physical Therapy Assistant",
+    "jobLocation": "Ngembel",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-08-21T19:08:03Z"
+  },
+  {
+    "company": "Flashpoint",
+    "position": "Payment Adjustment Coordinator",
+    "jobLocation": "Zhongguan",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-01-20T21:08:43Z"
+  },
+  {
+    "company": "Tambee",
+    "position": "Senior Editor",
+    "jobLocation": "Monte do Outeiro",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-12-04T17:51:41Z"
+  },
+  {
+    "company": "Jaxworks",
+    "position": "Librarian",
+    "jobLocation": "Hannover",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-11-09T15:47:39Z"
+  },
+  {
+    "company": "Oyondu",
+    "position": "Automation Specialist IV",
+    "jobLocation": "Candi",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-10-06T22:57:09Z"
+  },
+  {
+    "company": "Flipbug",
+    "position": "Computer Systems Analyst I",
+    "jobLocation": "Santiago de Cuba",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-06-10T12:18:56Z"
+  },
+  {
+    "company": "Mymm",
+    "position": "VP Accounting",
+    "jobLocation": "Honiara",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-01-31T22:27:34Z"
+  },
+  {
+    "company": "Brainlounge",
+    "position": "Computer Systems Analyst I",
+    "jobLocation": "Gaotang",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-12-16T01:59:27Z"
+  },
+  {
+    "company": "Blognation",
+    "position": "Database Administrator II",
+    "jobLocation": "Suna",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-12-14T06:08:22Z"
+  },
+  {
+    "company": "Yozio",
+    "position": "Clinical Specialist",
+    "jobLocation": "Seattle",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-06-26T14:55:53Z"
+  },
+  {
+    "company": "Jabbersphere",
+    "position": "Human Resources Manager",
+    "jobLocation": "Nanzhang Chengguanzhen",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-01-16T09:15:52Z"
+  },
+  {
+    "company": "Zoombox",
+    "position": "Staff Scientist",
+    "jobLocation": "Shuishiying",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-07-23T05:53:55Z"
+  },
+  {
+    "company": "Geba",
+    "position": "Structural Analysis Engineer",
+    "jobLocation": "Blois",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-02-07T04:50:15Z"
+  },
+  {
+    "company": "Yombu",
+    "position": "Senior Quality Engineer",
+    "jobLocation": "Ust’-Donetskiy",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-06-24T09:36:18Z"
+  },
+  {
+    "company": "Skinder",
+    "position": "Account Representative III",
+    "jobLocation": "Shatoujiao",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-06-03T16:14:38Z"
+  },
+  {
+    "company": "Youopia",
+    "position": "Human Resources Manager",
+    "jobLocation": "Sindangsari",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-07-05T22:05:38Z"
+  },
+  {
+    "company": "Edgewire",
+    "position": "Geologist IV",
+    "jobLocation": "Yŏnan-ŭp",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-12-12T13:50:40Z"
+  },
+  {
+    "company": "Realblab",
+    "position": "Registered Nurse",
+    "jobLocation": "Tulsa",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-07-20T21:21:10Z"
+  },
+  {
+    "company": "Jatri",
+    "position": "Recruiting Manager",
+    "jobLocation": "Liuduzhai",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-04-30T04:26:31Z"
+  },
+  {
+    "company": "Zoozzy",
+    "position": "Safety Technician II",
+    "jobLocation": "Cisek",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-03-01T06:41:25Z"
+  },
+  {
+    "company": "Feedbug",
+    "position": "Senior Developer",
+    "jobLocation": "Santa Lucia",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-09-03T04:45:34Z"
+  },
+  {
+    "company": "Talane",
+    "position": "Geological Engineer",
+    "jobLocation": "Nelahozeves",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-09-02T20:26:54Z"
+  },
+  {
+    "company": "Yodel",
+    "position": "Electrical Engineer",
+    "jobLocation": "Alvito de São Pedro",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-05-26T16:29:42Z"
+  },
+  {
+    "company": "Oyoloo",
+    "position": "Programmer III",
+    "jobLocation": "Huangqi",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-03-02T21:55:47Z"
+  },
+  {
+    "company": "Jabbersphere",
+    "position": "Assistant Manager",
+    "jobLocation": "Polowat",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-05-04T23:19:01Z"
+  },
+  {
+    "company": "Quaxo",
+    "position": "Analog Circuit Design manager",
+    "jobLocation": "Qingqu",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-09-10T20:15:23Z"
+  },
+  {
+    "company": "Realcube",
+    "position": "Senior Sales Associate",
+    "jobLocation": "Ngrejo",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-12-11T12:55:29Z"
+  },
+  {
+    "company": "Livetube",
+    "position": "Pharmacist",
+    "jobLocation": "Kedungtaman",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-11-24T01:22:11Z"
+  },
+  {
+    "company": "Zoomdog",
+    "position": "VP Marketing",
+    "jobLocation": "Ōme",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-11-10T04:43:10Z"
+  },
+  {
+    "company": "Wikibox",
+    "position": "Account Coordinator",
+    "jobLocation": "Patiya",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-03-01T08:49:15Z"
+  },
+  {
+    "company": "Divanoodle",
+    "position": "Research Associate",
+    "jobLocation": "Hetai",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-12-08T23:10:17Z"
+  },
+  {
+    "company": "Meevee",
+    "position": "Environmental Specialist",
+    "jobLocation": "Xiaoyang",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-01-12T18:26:56Z"
+  },
+  {
+    "company": "Linkbridge",
+    "position": "Health Coach I",
+    "jobLocation": "Desa Borogojol",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-10-27T15:03:19Z"
+  },
+  {
+    "company": "Tagcat",
+    "position": "Help Desk Operator",
+    "jobLocation": "Rozhnyativ",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-10-28T10:32:11Z"
+  },
+  {
+    "company": "Edgewire",
+    "position": "Food Chemist",
+    "jobLocation": "Diaowei",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-11-30T09:29:23Z"
+  },
+  {
+    "company": "Youspan",
+    "position": "Administrative Assistant I",
+    "jobLocation": "Mnichovo Hradiště",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-06-26T02:09:56Z"
+  },
+  {
+    "company": "Kayveo",
+    "position": "Editor",
+    "jobLocation": "Oslo",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-02-23T10:54:01Z"
+  },
+  {
+    "company": "Meezzy",
+    "position": "Senior Financial Analyst",
+    "jobLocation": "Likwatang Timur",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-07-22T22:00:07Z"
+  },
+  {
+    "company": "Skiba",
+    "position": "Civil Engineer",
+    "jobLocation": "Jelcz",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-06-19T19:07:52Z"
+  },
+  {
+    "company": "Realblab",
+    "position": "Recruiting Manager",
+    "jobLocation": "Ngori",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-09-26T01:36:29Z"
+  },
+  {
+    "company": "Babbleopia",
+    "position": "GIS Technical Architect",
+    "jobLocation": "Berëzovka",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-07-15T19:03:29Z"
+  },
+  {
+    "company": "Meedoo",
+    "position": "Nurse",
+    "jobLocation": "Templeogue",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-03-29T20:21:48Z"
+  },
+  {
+    "company": "Kazio",
+    "position": "Systems Administrator I",
+    "jobLocation": "Tambac",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-03-26T14:25:54Z"
+  },
+  {
+    "company": "Skyndu",
+    "position": "Accounting Assistant IV",
+    "jobLocation": "Huangshi",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-01-22T04:00:20Z"
+  },
+  {
+    "company": "Zoomlounge",
+    "position": "Automation Specialist I",
+    "jobLocation": "Houjiachuan",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-06-29T18:33:46Z"
+  },
+  {
+    "company": "Realbuzz",
+    "position": "VP Marketing",
+    "jobLocation": "Chervonopartyzans’k",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-04-29T14:59:37Z"
+  },
+  {
+    "company": "Divape",
+    "position": "Sales Representative",
+    "jobLocation": "Tobi Village",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-07-20T00:31:02Z"
+  },
+  {
+    "company": "Jamia",
+    "position": "Information Systems Manager",
+    "jobLocation": "L’govskiy",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-11-08T01:35:59Z"
+  },
+  {
+    "company": "Devpulse",
+    "position": "Product Engineer",
+    "jobLocation": "Lyublino",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-03-17T23:54:45Z"
+  },
+  {
+    "company": "Jabberstorm",
+    "position": "Human Resources Manager",
+    "jobLocation": "Vysotsk",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-06-07T00:03:12Z"
+  },
+  {
+    "company": "Kanoodle",
+    "position": "Software Test Engineer I",
+    "jobLocation": "Dengnan",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-10-14T16:54:07Z"
+  },
+  {
+    "company": "Aivee",
+    "position": "Business Systems Development Analyst",
+    "jobLocation": "Curvelo",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-04-21T02:43:12Z"
+  },
+  {
+    "company": "Tambee",
+    "position": "Assistant Professor",
+    "jobLocation": "Getung",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-07-22T19:40:56Z"
+  },
+  {
+    "company": "Quinu",
+    "position": "General Manager",
+    "jobLocation": "Longgang",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-12-03T18:34:34Z"
+  },
+  {
+    "company": "Edgetag",
+    "position": "Cost Accountant",
+    "jobLocation": "Young America",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-10-29T05:39:06Z"
+  },
+  {
+    "company": "Katz",
+    "position": "Paralegal",
+    "jobLocation": "Siilinjärvi",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-09-21T09:19:34Z"
+  },
+  {
+    "company": "Photolist",
+    "position": "Information Systems Manager",
+    "jobLocation": "Chavarría",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-09-01T10:19:42Z"
+  },
+  {
+    "company": "Realmix",
+    "position": "Analyst Programmer",
+    "jobLocation": "Irará",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-11-09T15:04:02Z"
+  },
+  {
+    "company": "Gabvine",
+    "position": "Environmental Specialist",
+    "jobLocation": "Guanyang",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-11-17T07:07:39Z"
+  },
+  {
+    "company": "Einti",
+    "position": "Executive Secretary",
+    "jobLocation": "Wanga",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-10-05T03:23:34Z"
+  },
+  {
+    "company": "Innojam",
+    "position": "VP Accounting",
+    "jobLocation": "Leeuwarden",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-11-04T04:09:43Z"
+  },
+  {
+    "company": "Aivee",
+    "position": "Data Coordinator",
+    "jobLocation": "Jönköping",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-08-10T21:12:03Z"
+  },
+  {
+    "company": "Blogtag",
+    "position": "Librarian",
+    "jobLocation": "Zbytków",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-08-07T08:19:52Z"
+  },
+  {
+    "company": "Brainverse",
+    "position": "Structural Engineer",
+    "jobLocation": "Huangliang",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-02-18T10:07:40Z"
+  },
+  {
+    "company": "Yakidoo",
+    "position": "Statistician I",
+    "jobLocation": "Dalongdong",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-06-05T16:35:37Z"
+  },
+  {
+    "company": "Thoughtbridge",
+    "position": "Paralegal",
+    "jobLocation": "Kalinovskoye",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-12-03T05:03:36Z"
+  },
+  {
+    "company": "Yozio",
+    "position": "Information Systems Manager",
+    "jobLocation": "Morales",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-03-10T14:17:17Z"
+  },
+  {
+    "company": "Thoughtbridge",
+    "position": "Physical Therapy Assistant",
+    "jobLocation": "Pickering",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-08-16T23:09:25Z"
+  },
+  {
+    "company": "Camimbo",
+    "position": "Safety Technician IV",
+    "jobLocation": "Obukhiv",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-06-05T07:39:45Z"
+  },
+  {
+    "company": "Linkbuzz",
+    "position": "Executive Secretary",
+    "jobLocation": "Rancagadog",
+    "jobStatus": "interview",
+    "jobType": "full-time",
+    "createdAt": "2024-04-18T17:49:28Z"
+  },
+  {
+    "company": "Flashset",
+    "position": "Statistician I",
+    "jobLocation": "Amvrosiyivka",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-05-28T01:31:02Z"
+  },
+  {
+    "company": "Gabspot",
+    "position": "Programmer II",
+    "jobLocation": "Nanzhihui",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-02-24T10:02:51Z"
+  },
+  {
+    "company": "Kwimbee",
+    "position": "Statistician II",
+    "jobLocation": "Anjia",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-08-29T21:00:33Z"
+  },
+  {
+    "company": "Podcat",
+    "position": "Research Associate",
+    "jobLocation": "Passos",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-12-13T05:25:55Z"
+  },
+  {
+    "company": "Bluezoom",
+    "position": "Budget/Accounting Analyst II",
+    "jobLocation": "Dongtou",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-03-10T02:21:13Z"
+  },
+  {
+    "company": "Youtags",
+    "position": "Compensation Analyst",
+    "jobLocation": "Gebang",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-10-15T10:53:03Z"
+  },
+  {
+    "company": "Yakidoo",
+    "position": "Project Manager",
+    "jobLocation": "Corujeira",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-12-23T17:07:13Z"
+  },
+  {
+    "company": "Meemm",
+    "position": "VP Quality Control",
+    "jobLocation": "Jianshe",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-06-01T18:00:26Z"
+  },
+  {
+    "company": "Shuffledrive",
+    "position": "Accountant IV",
+    "jobLocation": "Clervaux",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-06-07T23:28:28Z"
+  },
+  {
+    "company": "Roodel",
+    "position": "Geologist III",
+    "jobLocation": "Weiyang",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-02-11T13:39:48Z"
+  },
+  {
+    "company": "Yacero",
+    "position": "Analyst Programmer",
+    "jobLocation": "Sơn Trà",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-09-20T12:49:17Z"
+  },
+  {
+    "company": "Chatterpoint",
+    "position": "Systems Administrator IV",
+    "jobLocation": "Chishui",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-06-05T08:03:55Z"
+  },
+  {
+    "company": "Zoonder",
+    "position": "Professor",
+    "jobLocation": "El Tambo",
+    "jobStatus": "pending",
+    "jobType": "internship",
+    "createdAt": "2024-06-04T08:39:51Z"
+  },
+  {
+    "company": "Aivee",
+    "position": "Administrative Officer",
+    "jobLocation": "Khodasy",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-07-11T10:52:26Z"
+  },
+  {
+    "company": "Talane",
+    "position": "Structural Engineer",
+    "jobLocation": "Winduraja",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-12-03T10:27:13Z"
+  },
+  {
+    "company": "Voonyx",
+    "position": "Executive Secretary",
+    "jobLocation": "Nelspruit",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-12-07T12:23:32Z"
+  },
+  {
+    "company": "Chatterbridge",
+    "position": "Statistician III",
+    "jobLocation": "Paris 20",
+    "jobStatus": "interview",
+    "jobType": "internship",
+    "createdAt": "2024-07-16T18:45:52Z"
+  },
+  {
+    "company": "Babbleblab",
+    "position": "Geological Engineer",
+    "jobLocation": "Ampara",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-11-02T11:31:09Z"
+  },
+  {
+    "company": "Einti",
+    "position": "Associate Professor",
+    "jobLocation": "Villa Atamisqui",
+    "jobStatus": "pending",
+    "jobType": "full-time",
+    "createdAt": "2024-11-06T13:42:24Z"
+  },
+  {
+    "company": "Voomm",
+    "position": "Dental Hygienist",
+    "jobLocation": "Gaobeijie",
+    "jobStatus": "declined",
+    "jobType": "internship",
+    "createdAt": "2024-12-10T08:01:22Z"
+  },
+  {
+    "company": "Skaboo",
+    "position": "Structural Analysis Engineer",
+    "jobLocation": "Igurusi",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-07-13T08:12:17Z"
+  },
+  {
+    "company": "Twitterwire",
+    "position": "Senior Cost Accountant",
+    "jobLocation": "Kupang",
+    "jobStatus": "pending",
+    "jobType": "part-time",
+    "createdAt": "2024-06-08T21:53:13Z"
+  },
+  {
+    "company": "Myworks",
+    "position": "Librarian",
+    "jobLocation": "Ribeiro",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-10-28T06:46:36Z"
+  },
+  {
+    "company": "Lazz",
+    "position": "Automation Specialist III",
+    "jobLocation": "Pulian",
+    "jobStatus": "declined",
+    "jobType": "full-time",
+    "createdAt": "2024-11-02T13:06:59Z"
+  },
+  {
+    "company": "Fivespan",
+    "position": "Senior Sales Associate",
+    "jobLocation": "Oliveirinha",
+    "jobStatus": "declined",
+    "jobType": "part-time",
+    "createdAt": "2024-12-01T00:00:46Z"
+  },
+  {
+    "company": "Ozu",
+    "position": "Associate Professor",
+    "jobLocation": "Kavadarci",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-09-07T12:44:47Z"
+  },
+  {
+    "company": "Yabox",
+    "position": "Engineer II",
+    "jobLocation": "Gala",
+    "jobStatus": "interview",
+    "jobType": "part-time",
+    "createdAt": "2024-05-04T10:51:43Z"
+  }
+]
