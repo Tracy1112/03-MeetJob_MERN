@@ -15,10 +15,9 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            I'm baby wayfarers hoodie next level taiyaki brooklyn cliche blue
-            bottle single-origin coffee chia. Aesthetic post-ironic venmo,
-            quinoa lo-fi tote bag adaptogen everyday carry meggings +1 brunch
-            narwhal.
+            Take Control of Your Job Search with MeetJob. Track every job you
+            apply to — add details, update progress, and never miss an
+            opportunity again. Simplify your job hunting with MeetJob.
           </p>
           <Link to="/register" className="btn register-link">
             Register

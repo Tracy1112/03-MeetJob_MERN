@@ -1,0 +1,9 @@
+NODE_ENV=development
+PORT=5100
+MONGO_URL=mongodb+srv://Tracy:secret123@cluster1.aaa6ss5.mongodb.net/JOBIFY?retryWrites=true&w=majority&appName=Cluster1
+JWT_SECRET=mySuperSecretKey
+JWT_EXPIRES_IN=1d
+
+CLOUD_NAME=ddhftnyiv
+CLOUD_API_KEY=271813149521773
+CLOUD_API_SECRET=a0KmckqKsjmmfv61gfRevIWyIm8
